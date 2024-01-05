@@ -27,6 +27,30 @@ Make sure you have the following installed:
 - Code editor (e.g., Visual Studio Code)
 
 ### Installation
+Open the project in your code editor.
+
+Open index.html in your web browser.
+
+Usage
+Adding a task: Enter a task in the input field and press Enter.
+Completing a task: Click on the checkbox next to the task.
+Removing a task: Click on the delete icon next to the task.
+Clearing completed tasks: Click on the "Clear Completed" button.
+
+Built With
+HTML
+CSS
+JavaScript
+jQuery
+
+Contributing
+If you'd like to contribute, please fork the repository and create a pull request. Feedback and suggestions are also welcome!
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+Acknowledgments
+Thanks to jQuery for simplifying DOM manipulation.
 
 1. Clone the repository:
 
